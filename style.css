@@ -1,6 +1,15 @@
 body{
-    background-color: wheat;
+    background-color: rgb(172, 124, 214);
 }
 #unhas{
-        width: 50%;
+        width: 40%;
+        
+}
+
+.segundo-titulo{
+    text-align: center;
+}
+
+.primeiro-titulo{
+    text-align: center;
 }
